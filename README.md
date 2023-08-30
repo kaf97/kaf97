@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <p align="center">
   꾸준한 열정으로 배우고 있습니다🧍🏻‍♂️

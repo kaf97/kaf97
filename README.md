@@ -1,12 +1,4 @@
 
-<p align="center">
-  꾸준한 열정으로 배우고 있습니다🧍🏻‍♂️
-</p>
-<p align="center">
-  호기심과 설렘을 가지고 발전 중입니다🚶🏻‍♂️
-</p>
-<p align="center">
-  선한 영향력 끼치는 개발자가 되기 위해 준비 중입니다🏃🏻‍♂️
 </p>
 
 <div align="center">
